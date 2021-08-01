@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    int n = 100;
+    int n = 1000;
     int i = 0;
     int result = 0;
 
